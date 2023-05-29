@@ -1,0 +1,3 @@
+#.gitignore (Git ignorar), literalmente ignorar os arquivos abaixo na hora de commitar.
+node_modules
+package-lock.json

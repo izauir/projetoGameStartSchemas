@@ -1,0 +1,13 @@
+//Babel(biblioteca), compilador do JavaScript. Trabalha como transpilador (tradutor) facilitador pra utilizar o JS.
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "targets": {
+          "node": true
+        }
+      }
+    ]
+  ]
+}
